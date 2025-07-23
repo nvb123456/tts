@@ -1,0 +1,77 @@
+{
+  "app_name": "TTS Tool Vietnamese",
+  "version": "1.0.0",
+  "build": "20241222",
+  "author": "Nguyễn Vĩnh Bảo",
+  "author_email": "contact@example.com", 
+  "description": "Công cụ chuyển văn bản thành giọng nói tiếng Việt chất lượng cao",
+  "website": "https://github.com/ngvinhbao/tts-tool-vietnamese",
+  "facebook": "https://fb.com/ngvinhbao14081",
+  "telegram": "https://t.me/nvb1408",
+  "license": "MIT",
+  
+  "support_info": {
+    "vpbank": "0567546604",
+    "crypto_trc20": "TULbGQbBGLL4VNrUYob7eWJUDup2ixkUT4",
+    "message": "Ủng hộ tác giả để duy trì và phát triển ứng dụng"
+  },
+  
+  "app_settings": {
+    "window_title": "🎤 TTS Tool Vietnamese - Chuyển văn bản thành giọng nói",
+    "window_size": "950x750",
+    "theme": "dark",
+    "auto_save": true,
+    "check_updates": false,
+    "analytics": false
+  },
+  
+  "default_tts_settings": {
+    "engine": "Edge TTS",
+    "voice": "vi-VN-HoaiMyNeural",
+    "speed": 1.0,
+    "pitch": 0.0,
+    "volume": 1.0,
+    "output_format": "mp3",
+    "output_quality": "high"
+  },
+  
+  "supported_voices": {
+    "edge_tts": {
+      "vi-VN-HoaiMyNeural": "👩 HoaiMy (Nữ) - Giọng Việt Neural",
+      "vi-VN-NamMinhNeural": "👨 NamMinh (Nam) - Giọng Việt Neural"
+    },
+    "google_tts": {
+      "vi": "🇻🇳 Tiếng Việt (Google TTS)"
+    },
+    "system_tts": {
+      "default": "🇻🇳 Tiếng Việt (Hệ thống)"
+    }
+  },
+  
+  "file_settings": {
+    "max_text_length": 50000,
+    "supported_input_formats": [".txt", ".docx", ".pdf"],
+    "supported_output_formats": [".mp3", ".wav", ".ogg"],
+    "default_output_dir": "./output",
+    "auto_create_output_dir": true
+  },
+  
+  "features": {
+    "unlimited_characters": true,
+    "fast_processing": true,
+    "no_api_cost": true,
+    "batch_processing": true,
+    "subtitle_generation": true,
+    "voice_preview": true,
+    "export_settings": true,
+    "keyboard_shortcuts": true
+  },
+  
+  "build_info": {
+    "python_version": "3.8+",
+    "platform": "Windows/macOS/Linux", 
+    "architecture": "x64",
+    "build_date": "2024-12-22",
+    "build_type": "release"
+  }
+}

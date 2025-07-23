@@ -1,0 +1,124 @@
+MIT License
+
+Copyright (c) 2024 Nguyễn Vĩnh Bảo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+TTS Tool Vietnamese - Công cụ chuyển văn bản thành giọng nói tiếng Việt
+
+Phát triển bởi: Nguyễn Vĩnh Bảo
+Liên hệ: 
+- Facebook: https://fb.com/ngvinhbao14081
+- Telegram: https://t.me/nvb1408
+
+Ủng hộ tác giả:
+- VPBank: 0567546604
+- Crypto (TRC20): TULbGQbBGLL4VNrUYob7eWJUDup2ixkUT4
+
+Tính năng nổi bật:
+- Giọng tiếng Việt Neural chất lượng cao (HoaiMy, NamMinh)
+- Không giới hạn ký tự
+- Tốc độ xử lý siêu nhanh
+- Không tốn phí API
+- Xử lý hàng loạt file
+- Tự động tạo phụ đề
+
+================================================================================
+
+IMPORTANT NOTES / GHI CHÚ QUAN TRỌNG:
+
+1. PERSONAL USE ONLY / CHỈ SỬ DỤNG CÁ NHÂN:
+   This software is intended for personal, non-commercial use only.
+   Phần mềm này chỉ dành cho mục đích cá nhân, không thương mại.
+
+2. THIRD-PARTY SERVICES / DỊCH VỤ BÊN THỨ BA:
+   This software uses Microsoft Edge TTS and Google TTS services.
+   Please comply with their respective Terms of Service.
+   Phần mềm sử dụng dịch vụ Microsoft Edge TTS và Google TTS.
+   Vui lòng tuân thủ Điều khoản Dịch vụ của họ.
+
+3. NO WARRANTY / KHÔNG BẢO HÀNH:
+   The software is provided "as is" without warranty of any kind.
+   Phần mềm được cung cấp "như có" mà không có bảo hành gì.
+
+4. VOICE RIGHTS / QUYỀN GIỌNG NÓI:
+   Generated voices are synthetic and created by AI.
+   Not affiliated with any real person.
+   Giọng nói được tạo bởi AI, không liên quan đến người thật.
+
+5. DATA PRIVACY / QUYỀN RIÊNG TƯ:
+   This software processes text locally when possible.
+   Some TTS engines may send data to external servers.
+   Phần mềm xử lý văn bản cục bộ khi có thể.
+   Một số engine có thể gửi dữ liệu đến server bên ngoài.
+
+6. DISTRIBUTION / PHÂN PHỐI:
+   You may distribute this software freely under MIT license terms.
+   Bạn có thể phân phối phần mềm này tự do theo điều khoản MIT.
+
+7. MODIFICATIONS / CHỈNH SỬA:
+   You are free to modify and improve this software.
+   Consider contributing back to the community.
+   Bạn có thể chỉnh sửa và cải thiện phần mềm.
+   Hãy cân nhắc đóng góp lại cho cộng đồng.
+
+8. ATTRIBUTION / GHI NHẬN:
+   Please keep author attribution in derivative works.
+   Vui lòng giữ thông tin tác giả trong các sản phẩm phái sinh.
+
+================================================================================
+
+THIRD-PARTY LICENSES / GIẤY PHÉP BÊN THỨ BA:
+
+This software includes or uses the following third-party libraries:
+Phần mềm này bao gồm hoặc sử dụng các thư viện bên thứ ba sau:
+
+- edge-tts: Apache License 2.0
+- gTTS: MIT License  
+- pyttsx3: Mozilla Public License 2.0
+- pygame: LGPL License
+- tkinter: Python Software Foundation License
+- Pillow: HPND License
+- requests: Apache License 2.0
+
+For full license texts, see their respective repositories.
+Để xem toàn bộ văn bản giấy phép, xem repository tương ứng của chúng.
+
+================================================================================
+
+CONTACT / LIÊN HỆ:
+
+For support, questions, or collaboration:
+Để được hỗ trợ, đặt câu hỏi, hoặc hợp tác:
+
+📧 Email: Liên hệ qua Facebook hoặc Telegram
+📘 Facebook: https://fb.com/ngvinhbao14081
+💬 Telegram: https://t.me/nvb1408
+🐛 Bug Reports: GitHub Issues
+⭐ Source Code: GitHub Repository
+
+💖 Support the author / Ủng hộ tác giả:
+🏦 VPBank: 0567546604
+₿ Crypto (TRC20): TULbGQbBGLL4VNrUYob7eWJUDup2ixkUT4
+
+================================================================================
+
+Made with ❤️ in Vietnam 🇻🇳
